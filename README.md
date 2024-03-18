@@ -1,4 +1,4 @@
-Projekt tworzony na studia wraz z Marcinem Wawrzyniakiem.
+Projekt tworzony na studia wraz z Nel Kułakowską.
 
 Celem projektu było opracowanie kompletnego systemu bazującego na UM rozwiązującego konkretne zadanie biznesowe. System ma elementy pozwalające na:
 - serwowanie przygotowanych modeli,
